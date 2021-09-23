@@ -40,7 +40,7 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>540e65a9090232007f44e1046c8ff6a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>New Section</sys_name>
+            <sys_name>x_snc_createnotes_note</sys_name>
             <sys_overrides/>
             <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
             <sys_policy/>
